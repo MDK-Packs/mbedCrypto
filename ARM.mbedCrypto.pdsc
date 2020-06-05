@@ -7,7 +7,7 @@
   <url>https://github.com/MDK-Packs/Pack/raw/master/mbedCrypto/</url>
   <repository type="git">https://github.com/MDK-Packs/mbedCrypto.git</repository>
   <releases>
-    <release version="3.0.1-rc0">
+    <release version="3.0.1" date="2020-06-05">
       Release based on mbed-crypto V3.0.1
     </release>
   </releases>
